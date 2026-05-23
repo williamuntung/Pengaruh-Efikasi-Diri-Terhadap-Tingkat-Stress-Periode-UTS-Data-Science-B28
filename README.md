@@ -20,15 +20,6 @@ Data dikumpulkan melalui kuesioner yang disebarkan kepada mahasiswa selama perio
 
 Analisis dilakukan menggunakan Python dengan library Pandas, Matplotlib, Seaborn, dan Scikit-learn.
 
-## Struktur Repositori
-
-```
-data/          # Dataset hasil survei (raw & processed)
-notebooks/     # Notebook analisis
-src/           # Script pendukung
-reports/       # Visualisasi dan laporan akhir
-```
-
 ## Cara Menjalankan
 
 ```bash
