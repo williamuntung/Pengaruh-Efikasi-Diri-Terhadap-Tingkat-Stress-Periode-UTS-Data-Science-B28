@@ -3,3 +3,7 @@ pandas==2.2.3
 scipy==1.13.1
 scikit-learn==1.5.2
 pingouin==0.5.5
+seaborn==0.13.2
+matplotlib==3.10.9
+statsmodels==0.14.6
+factor_analyzer==0.5.1
